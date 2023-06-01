@@ -1,6 +1,6 @@
 public class Fifth {
-            void    print() {
+    void print() {
 
-                System.out.println("I am Fifth class") ;
+        System.out.println("I am Fifth class");
     }
 }
